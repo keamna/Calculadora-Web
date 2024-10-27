@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Calculadora Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7609DE72-B3E3-44BC-BDCA-0E7905A448BE}|Calculadora Web\\Calculadora Web.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Calculadora Web\\calculadora web\\calculadora.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7609DE72-B3E3-44BC-BDCA-0E7905A448BE}|Calculadora Web\\Calculadora Web.csproj|solutionrelative:calculadora web\\calculadora.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7609DE72-B3E3-44BC-BDCA-0E7905A448BE}|Calculadora Web\\Calculadora Web.csproj|c:\\users\\keany\\programacion ii c# visual studio\\calculadora web\\calculadora web\\calculadora.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7609DE72-B3E3-44BC-BDCA-0E7905A448BE}|Calculadora Web\\Calculadora Web.csproj|solutionrelative:calculadora web\\calculadora.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7609DE72-B3E3-44BC-BDCA-0E7905A448BE}|Calculadora Web\\Calculadora Web.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Calculadora Web\\calculadora web\\pagina2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7609DE72-B3E3-44BC-BDCA-0E7905A448BE}|Calculadora Web\\Calculadora Web.csproj|solutionrelative:calculadora web\\pagina2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7609DE72-B3E3-44BC-BDCA-0E7905A448BE}|Calculadora Web\\Calculadora Web.csproj|C:\\Users\\Keany\\Programacion II C# Visual Studio\\Calculadora Web\\calculadora web\\pagina2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7609DE72-B3E3-44BC-BDCA-0E7905A448BE}|Calculadora Web\\Calculadora Web.csproj|solutionrelative:calculadora web\\pagina2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pagina2.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Calculadora Web\\Calculadora Web\\Pagina2.aspx",
+              "RelativeDocumentMoniker": "Calculadora Web\\Pagina2.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Calculadora Web\\Calculadora Web\\Pagina2.aspx",
+              "RelativeToolTip": "Calculadora Web\\Pagina2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-27T03:06:49.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Calculadora Web\\Calculadora Web\\Calculadora.aspx.cs",
+              "RelativeDocumentMoniker": "Calculadora Web\\Calculadora.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Calculadora Web\\Calculadora Web\\Calculadora.aspx.cs",
+              "RelativeToolTip": "Calculadora Web\\Calculadora.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:45:44.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.aspx",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Calculadora Web\\Calculadora Web\\Calculadora.aspx",
+              "RelativeDocumentMoniker": "Calculadora Web\\Calculadora.aspx",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Calculadora Web\\Calculadora Web\\Calculadora.aspx",
+              "RelativeToolTip": "Calculadora Web\\Calculadora.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-25T23:30:01.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pagina2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Calculadora Web\\Calculadora Web\\Pagina2.aspx.cs",
+              "RelativeDocumentMoniker": "Calculadora Web\\Pagina2.aspx.cs",
+              "ToolTip": "C:\\Users\\Keany\\Programacion II C# Visual Studio\\Calculadora Web\\Calculadora Web\\Pagina2.aspx.cs",
+              "RelativeToolTip": "Calculadora Web\\Pagina2.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T03:27:57.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
